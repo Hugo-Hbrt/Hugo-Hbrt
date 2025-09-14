@@ -4,5 +4,4 @@
 
 ## Currently learning Full-Stack software engineering.
 
-## Codewars 
-https://www.codewars.com/users/Hugo-Hbrt/badges/large
+![Codewars](https://github.r2v.ch/codewars?user=Hugo-Hbrt)
