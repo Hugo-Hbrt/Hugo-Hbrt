@@ -33,7 +33,7 @@ As a self-proclaimed nerd, my canvas is code. I find joy in discovering elegant 
 ## 💼 Professional Journey
 
 ### The Beginning
-My software development journey started with coding games in Python and Unity — igniting a passion that would shape my career.
+My software development journey started when i was 13, learning to code games in Python and Unity — igniting a passion that would shape my career.
 
 ### Education
 Graduated with an **Engineering Master's Degree from ESTACA**. As I've always been passionate about motorsport and automotive (thanks dad).
