@@ -17,7 +17,6 @@ I'm driven by an insatiable curiosity that pushes me to explore new tools and te
 Don't get me wrong: I strongly oppose the "vibe-coding" trend. **True leverage of AI requires solid engineering fundamentals.** That's why I'm deeply committed to:
 - **Clean Code Principles**
 - **Test-Driven Development (TDD)**
-- **Domain-Driven Design (DDD)**
 
 I'm continuously learning and refining my craft to become the best software engineer I can be.
 
