@@ -47,7 +47,7 @@ At this pioneering French company, I honed my skills in writing **efficient, cle
 
 This experience gave me deep insights into:
 - The foundations of computer science
-- Low-level programming (close to hardware)
+- Low-level programming
 - Safety-critical software development standards
 
 **Total Experience:** 3+ years
@@ -56,8 +56,8 @@ This experience gave me deep insights into:
 
 ## 🌱 Current Focus
 
-### Full-Stack Software Engineering
-I'm expanding my expertise into full-stack development through **Codecademy**, where the project-oriented approach allows me to build real-world applications and solidify my knowledge across the entire stack.
+### Backend Software Engineering
+I'm expanding my expertise into backend development through **Codecademy**, where the project-oriented approach allows me to build real-world applications and solidify my knowledge across the entire stack.
 
 ---
 
