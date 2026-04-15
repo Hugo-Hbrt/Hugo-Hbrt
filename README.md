@@ -14,10 +14,7 @@
 
 I'm driven by an insatiable curiosity that pushes me to explore new tools and technologies. Today, I'm proud to harness the power of AI tools that are revolutionizing software engineering — but with a thoughtful approach.
 
-Don't get me wrong: I strongly oppose the "vibe-coding" trend. **True leverage of AI requires solid engineering fundamentals.** That's why I'm deeply committed to:
-- **Clean Code Principles**
-- **Test-Driven Development (TDD)**
-
+Don't get me wrong: I strongly oppose the "vibe-coding" trend. **True leverage of AI requires solid engineering fundamentals.** 
 I'm continuously learning and refining my craft to become the best software engineer I can be.
 
 ### Curious.
@@ -50,14 +47,14 @@ This experience gave me deep insights into:
 - Low-level programming
 - Safety-critical software development standards
 
-**Total Experience:** 3+ years
+**Total Experience:** 4+ years
 
 ---
 
 ## 🌱 Current Focus
 
-### Backend Software Engineering
-I'm expanding my expertise into backend development through **Codecademy**, where the project-oriented approach allows me to build real-world applications and solidify my knowledge across the entire stack.
+### Working at HHDevelopment, industry leader for motorport software solutions.
+![HHDevelopment website](https://hh-dev.com/)
 
 ---
 
@@ -73,34 +70,6 @@ I'm expanding my expertise into backend development through **Codecademy**, wher
 [![Other tools](https://skillicons.dev/icons?i=git,github,vite,vitest,postman,figma)](https://skillicons.dev)
 
 **Bonus:** Claude Code (AI-assisted development)
-
-### Methodologies
-- 🧪 **Test-Driven Development (TDD)**
-- 🏗️ **Domain-Driven Design (DDD)**
-- 🧹 **Clean Code Principles**
-- 🔄 **Agile Development**
-
----
-
-## 🎯 What I'm Looking For
-
-I'm seeking opportunities where I can make a **real impact** through:
-
-✨ **Creativity & Problem-Solving** — Tackling complex challenges with innovative solutions
-
-👥 **User-Centric Development** — Understanding real user needs through direct interaction
-
-🤝 **Collaborative Environment** — Working alongside talented engineers to build exceptional products
-
-🎯 **Product & Results Focus** — Delivering tangible value and measurable outcomes
-
----
-
-## 📊 Some Stats
-
-![Codewars](https://github.r2v.ch/codewars?user=Hugo-Hbrt)
-
----
 
 <div align="center">
 
