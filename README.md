@@ -47,14 +47,12 @@ This experience gave me deep insights into:
 - Low-level programming
 - Safety-critical software development standards
 
-**Total Experience:** 4+ years
+### Software Engineer @ HHDevelopment
+**Remote, France | Motorsport software solutions**
 
----
-
-## 🌱 Current Focus
-
-### Working at HHDevelopment, industry leader for motorport software solutions.
 [HHDevelopment website](https://hh-dev.com/)
+
+**Total Experience:** 4+ years
 
 ---
 
