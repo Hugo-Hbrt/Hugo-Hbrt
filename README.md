@@ -54,7 +54,7 @@ This experience gave me deep insights into:
 ## 🌱 Current Focus
 
 ### Working at HHDevelopment, industry leader for motorport software solutions.
-![HHDevelopment website](https://hh-dev.com/)
+[HHDevelopment website](https://hh-dev.com/)
 
 ---
 
